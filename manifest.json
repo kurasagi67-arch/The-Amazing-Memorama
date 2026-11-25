@@ -1,0 +1,12 @@
+{
+  "name": "El increíble memorama de Gumball",
+  "short_name": "Memorama Gumball",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#38bdf8",
+  "theme_color": "#1d6fe0",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
